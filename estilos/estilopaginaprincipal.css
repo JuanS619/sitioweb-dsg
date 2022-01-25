@@ -1,0 +1,48 @@
+* {
+ background: #000000;
+ color: #ffffff;
+}
+
+#logoDSG{
+    text-align: center;
+}
+
+body{
+    margin: 2 auto;
+}
+h1{
+    text-align: center;
+    background: #ffff00;
+    color: #000000;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+nav{
+    text-align: center;
+}
+nav ul{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav li{
+    float: left;
+    display: inline;
+    margin: 0px 1px 0px 1px;
+}
+
+nav li a{
+    padding: 2px 7px 2px 7px;
+	color: #F3F390;
+	background-color: #404033;
+	border: 1px solid #F3F390;
+	text-decoration: none; 
+}
+
+nav li a:hover{
+	background: #F3F390;
+	color: #404033;
+}
